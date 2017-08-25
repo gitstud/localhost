@@ -4,7 +4,7 @@ Localhost is an app built with React Native that allows you to store IP addresse
 everything looks on your mobile device.  With this app you can type an
 IP Address just one time and have it ready for you when you return to a network.
 
-[Get it here]('https://exp.host/@gitstud/localhost')!!!
+[Get it here](https://exp.host/@gitstud/localhost)!!!
 
 
 
