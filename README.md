@@ -1,3 +1,13 @@
+## Localhost
+
+Localhost is an app built with React Native that allows you to store IP addresses.  When developing on a website you often have to check how
+everything looks on your mobile device.  With this app you can type an
+IP Address just one time and have it ready for you when you return to a network.
+
+[Get it here!!!]('https://exp.host/@gitstud/localhost').
+
+
+
 This project was bootstrapped with [Create React Native App](https://github.com/react-community/create-react-native-app).
 
 Below you'll find information about performing common tasks. The most recent version of this guide is available [here](https://github.com/react-community/create-react-native-app/blob/master/react-native-scripts/template/README.md).
